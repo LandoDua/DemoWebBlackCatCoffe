@@ -4,6 +4,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #242a2d;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16pt;
 }
 
 header {
@@ -37,27 +40,37 @@ img {
 h1 {
    color: #E7E6E6; 
    text-align: center;
+   font-family: "Playfair Display", serif;
+   font-weight: 800;
 }
 
 h2{
     color: #E7E6E6; 
     text-align: center;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
  }
 
  h3{
     color: #E7E6E6; 
     text-align: center;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
  }
 
  h4{
     color: #E7E6E6; 
     text-align: center;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
  }
 
 h5 {
     color: #E7E6E6;
     size: 40px;
-    font-size: 40px; 
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400; 
  }
 
  p {
